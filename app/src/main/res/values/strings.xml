@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Dialog App</string>
+    <string name="first_activity">1-st Activity</string>
+    <string name="second_activity">Go to 2-nd</string>
+    <string name="welcom_second_activity">Second activity</string>
+    <string name="back_button">Back</string>
+
+
+    <string name="dialog_name">Dialog</string>
+    <string name="dialog_description">5. Group’s Dialog</string>
+    <string name="dialog_positive_text">OK</string>
+    <string name="dialog_negative_text">Close</string>
+
+    <string-array name="team_member_names">
+        <item>Aivis Skangalis</item>
+        <item>Andris Kudurs</item>
+        <item>Adrians Miņins</item>
+    </string-array>
+
+</resources>
